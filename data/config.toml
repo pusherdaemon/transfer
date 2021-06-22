@@ -28,5 +28,5 @@ prefs = [
     "user_pref('signon.rememberSignons', false);"
 ]
 package = true
-thread = 30
-headless = true
+thread = 1
+headless = false
