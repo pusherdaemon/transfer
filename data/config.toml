@@ -3,8 +3,8 @@ name = "mailpass"
 username = 'dustin'
 [proxy]
 type = "smartproxy"
-host = "62.210.106.135"
-port = [12230, 12239]
+host = "astraeus.p.shifter.io"
+port = [37530, 37554]
 user = ""
 
 [database]
@@ -28,5 +28,5 @@ prefs = [
     "user_pref('signon.rememberSignons', false);"
 ]
 package = true
-thread = 1
-headless = false
+thread = 30
+headless = true
