@@ -1,6 +1,6 @@
 [info]
 name = "mailpass"
-username = 'arlos'
+username = 'dustin'
 [proxy]
 type = "smartproxy"
 host = "62.210.106.135"
